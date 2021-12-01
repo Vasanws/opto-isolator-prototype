@@ -24,7 +24,7 @@ AR Path="/61A218FA/61A50B91" Ref="R?"  Part="1"
 AR Path="/61A56710/61A50B91" Ref="R?"  Part="1" 
 F 0 "R3" V 4000 2950 50  0000 L CNN
 F 1 "30" V 3800 2950 50  0000 L CNN
-F 2 "" H 3900 3000 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" H 3900 3000 50  0001 C CNN
 F 3 "~" H 3900 3000 50  0001 C CNN
 	1    3900 3000
 	1    0    0    -1  
@@ -40,7 +40,7 @@ AR Path="/61A218FA/61A50B97" Ref="U?"  Part="1"
 AR Path="/61A56710/61A50B97" Ref="U?"  Part="1" 
 F 0 "U3" H 3600 2875 50  0000 C CNN
 F 1 "EL357N-D" H 3600 2784 50  0000 C CNN
-F 2 "Package_DIP:DIP-4_W7.62mm" H 3400 2350 50  0001 L CIN
+F 2 "Package_SO:SO-4_4.4x3.9mm_P2.54mm" H 3400 2350 50  0001 L CIN
 F 3 "http://www.soselectronic.cz/a_info/resource/d/pc817.pdf" H 3600 2550 50  0001 L CNN
 	1    3600 2550
 	1    0    0    -1  
@@ -56,7 +56,7 @@ AR Path="/61A218FA/61A50B9D" Ref="U?"  Part="1"
 AR Path="/61A56710/61A50B9D" Ref="U?"  Part="1" 
 F 0 "U1" H 5100 2000 50  0000 C CNN
 F 1 "LM393" H 5150 2100 50  0000 C CNN
-F 2 "" H 5000 2250 50  0001 C CNN
+F 2 "Package_SO:SOP-8_5.28x5.23mm_P1.27mm" H 5000 2250 50  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/lm393.pdf" H 5000 2250 50  0001 C CNN
 	1    5000 2250
 	1    0    0    1   
@@ -72,7 +72,7 @@ AR Path="/61A218FA/61A50BA3" Ref="D?"  Part="1"
 AR Path="/61A56710/61A50BA3" Ref="D?"  Part="1" 
 F 0 "D1" H 4200 3050 50  0000 C CNN
 F 1 "1N4148" H 4200 2850 50  0000 C CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 4200 2775 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-323" H 4200 2775 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4200 2950 50  0001 C CNN
 	1    4200 2950
 	0    -1   -1   0   
@@ -88,7 +88,7 @@ AR Path="/61A218FA/61A50BA9" Ref="R?"  Part="1"
 AR Path="/61A56710/61A50BA9" Ref="R?"  Part="1" 
 F 0 "R5" H 5250 3000 50  0000 L CNN
 F 1 "760" H 5250 2900 50  0000 L CNN
-F 2 "" H 5150 2950 50  0001 C CNN
+F 2 "Potentiometer_SMD:Potentiometer_Bourns_3214W_Vertical" H 5150 2950 50  0001 C CNN
 F 3 "~" H 5150 2950 50  0001 C CNN
 	1    5150 2950
 	1    0    0    -1  
@@ -104,7 +104,7 @@ AR Path="/61A218FA/61A50BAF" Ref="R?"  Part="1"
 AR Path="/61A56710/61A50BAF" Ref="R?"  Part="1" 
 F 0 "R1" V 2650 2600 50  0000 L CNN
 F 1 "410" V 2450 2550 50  0000 L CNN
-F 2 "" H 2550 2650 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" H 2550 2650 50  0001 C CNN
 F 3 "~" H 2550 2650 50  0001 C CNN
 	1    2550 2650
 	0    -1   -1   0   
@@ -120,7 +120,7 @@ AR Path="/61A218FA/61A50BB5" Ref="R?"  Part="1"
 AR Path="/61A56710/61A50BB5" Ref="R?"  Part="1" 
 F 0 "R2" V 3000 2600 50  0000 L CNN
 F 1 "400" V 2800 2550 50  0000 L CNN
-F 2 "" H 2900 2650 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" H 2900 2650 50  0001 C CNN
 F 3 "~" H 2900 2650 50  0001 C CNN
 	1    2900 2650
 	0    -1   -1   0   
@@ -136,7 +136,7 @@ AR Path="/61A218FA/61A50BBB" Ref="C?"  Part="1"
 AR Path="/61A56710/61A50BBB" Ref="C?"  Part="1" 
 F 0 "C1" V 3000 2300 50  0000 L CNN
 F 1 "1.5n" V 2800 2250 50  0000 L CNN
-F 2 "" H 2900 2350 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 2900 2350 50  0001 C CNN
 F 3 "~" H 2900 2350 50  0001 C CNN
 	1    2900 2350
 	0    -1   -1   0   
@@ -172,7 +172,7 @@ AR Path="/61A218FA/61A50BCD" Ref="C?"  Part="1"
 AR Path="/61A56710/61A50BCD" Ref="C?"  Part="1" 
 F 0 "C2" H 3292 2046 50  0000 L CNN
 F 1 "1u" H 3292 1955 50  0000 L CNN
-F 2 "" H 3200 2000 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 3200 2000 50  0001 C CNN
 F 3 "~" H 3200 2000 50  0001 C CNN
 	1    3200 2000
 	-1   0    0    1   
@@ -193,7 +193,7 @@ AR Path="/61A56710/61A50BDE" Ref="U?"  Part="3"
 AR Path="/61A50BDE" Ref="U1"  Part="3" 
 F 0 "U1" H 4958 2296 50  0001 L CNN
 F 1 "LM393" H 4958 2205 50  0001 L CNN
-F 2 "" H 5000 2250 50  0001 C CNN
+F 2 "Package_SO:SOP-8_5.28x5.23mm_P1.27mm" H 5000 2250 50  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/lm393.pdf" H 5000 2250 50  0001 C CNN
 	3    5000 2250
 	1    0    0    -1  
@@ -209,7 +209,7 @@ AR Path="/61A218FA/61A50BE9" Ref="C?"  Part="1"
 AR Path="/61A56710/61A50BE9" Ref="C?"  Part="1" 
 F 0 "C4" V 4550 1700 50  0000 L CNN
 F 1 "1u" V 4650 1700 50  0000 L CNN
-F 2 "" H 4750 1750 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 4750 1750 50  0001 C CNN
 F 3 "~" H 4750 1750 50  0001 C CNN
 	1    4750 1750
 	0    1    1    0   
@@ -229,7 +229,7 @@ AR Path="/61A218FA/61A50BF3" Ref="R?"  Part="1"
 AR Path="/61A56710/61A50BF3" Ref="R?"  Part="1" 
 F 0 "R6" H 5609 1996 50  0000 L CNN
 F 1 "2k" H 5609 1905 50  0000 L CNN
-F 2 "" H 5550 1950 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" H 5550 1950 50  0001 C CNN
 F 3 "~" H 5550 1950 50  0001 C CNN
 	1    5550 1950
 	1    0    0    -1  
@@ -251,7 +251,7 @@ AR Path="/61A218FA/61A50BFD" Ref="C?"  Part="1"
 AR Path="/61A56710/61A50BFD" Ref="C?"  Part="1" 
 F 0 "C5" H 6092 1996 50  0000 L CNN
 F 1 "1u" H 6092 1905 50  0000 L CNN
-F 2 "" H 6000 1950 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 6000 1950 50  0001 C CNN
 F 3 "~" H 6000 1950 50  0001 C CNN
 	1    6000 1950
 	-1   0    0    1   
@@ -276,8 +276,6 @@ Wire Wire Line
 	4700 2350 4650 2350
 Wire Wire Line
 	4550 2350 4550 2500
-Wire Wire Line
-	4550 2700 4550 2850
 $Comp
 L Device:C_Small C3
 U 1 1 61A50C13
@@ -289,7 +287,7 @@ AR Path="/61A218FA/61A50C13" Ref="C?"  Part="1"
 AR Path="/61A56710/61A50C13" Ref="C?"  Part="1" 
 F 0 "C3" H 4642 2646 50  0000 L CNN
 F 1 "1u" H 4642 2555 50  0000 L CNN
-F 2 "" H 4550 2600 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 4550 2600 50  0001 C CNN
 F 3 "~" H 4550 2600 50  0001 C CNN
 	1    4550 2600
 	-1   0    0    1   
@@ -303,7 +301,7 @@ AR Path="/61A56710/61A50C19" Ref="R?"  Part="1"
 AR Path="/61A50C19" Ref="R4"  Part="1" 
 F 0 "R4" H 4850 3000 50  0000 L CNN
 F 1 "30k" H 4850 2900 50  0000 L CNN
-F 2 "" V 4730 2950 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" V 4730 2950 50  0001 C CNN
 F 3 "~" H 4800 2950 50  0001 C CNN
 	1    4800 2950
 	1    0    0    -1  
@@ -335,8 +333,6 @@ Wire Wire Line
 Connection ~ 4000 2650
 Wire Wire Line
 	4000 2650 4200 2650
-Text GLabel 4550 2850 3    39   Input ~ 0
-GND_out
 Wire Wire Line
 	4200 3100 4200 3600
 Wire Wire Line
@@ -356,7 +352,7 @@ In1
 Text GLabel 2100 2150 0    39   Input ~ 0
 V+_in
 Text GLabel 6250 2250 2    39   Input ~ 0
-In2
+Out1
 Text GLabel 5550 1400 1    39   Input ~ 0
 VPU_out
 Wire Wire Line
@@ -382,7 +378,7 @@ AR Path="/61A218FA/61A7CDBB" Ref="R?"  Part="1"
 AR Path="/61A56710/61A7CDBB" Ref="R?"  Part="1" 
 F 0 "R9" V 3950 5600 50  0000 L CNN
 F 1 "30" V 3750 5600 50  0000 L CNN
-F 2 "" H 3850 5650 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" H 3850 5650 50  0001 C CNN
 F 3 "~" H 3850 5650 50  0001 C CNN
 	1    3850 5650
 	1    0    0    -1  
@@ -398,7 +394,7 @@ AR Path="/61A218FA/61A7CDC1" Ref="U?"  Part="1"
 AR Path="/61A56710/61A7CDC1" Ref="U?"  Part="1" 
 F 0 "U2" H 3550 5525 50  0000 C CNN
 F 1 "EL357N-D" H 3550 5434 50  0000 C CNN
-F 2 "Package_DIP:DIP-4_W7.62mm" H 3350 5000 50  0001 L CIN
+F 2 "Package_SO:SO-4_4.4x3.9mm_P2.54mm" H 3350 5000 50  0001 L CIN
 F 3 "http://www.soselectronic.cz/a_info/resource/d/pc817.pdf" H 3550 5200 50  0001 L CNN
 	1    3550 5200
 	1    0    0    -1  
@@ -414,7 +410,7 @@ AR Path="/61A218FA/61A7CDC7" Ref="U?"  Part="1"
 AR Path="/61A56710/61A7CDC7" Ref="U?"  Part="1" 
 F 0 "U1" H 5050 4650 50  0000 C CNN
 F 1 "LM393" H 5100 4750 50  0000 C CNN
-F 2 "" H 4950 4900 50  0001 C CNN
+F 2 "Package_SO:SOP-8_5.28x5.23mm_P1.27mm" H 4950 4900 50  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/lm393.pdf" H 4950 4900 50  0001 C CNN
 	2    4950 4900
 	1    0    0    1   
@@ -430,7 +426,7 @@ AR Path="/61A218FA/61A7CDCD" Ref="D?"  Part="1"
 AR Path="/61A56710/61A7CDCD" Ref="D?"  Part="1" 
 F 0 "D2" H 4150 5700 50  0000 C CNN
 F 1 "1N4148" H 4150 5500 50  0000 C CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 4150 5425 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-323" H 4150 5425 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4150 5600 50  0001 C CNN
 	1    4150 5600
 	0    -1   -1   0   
@@ -446,7 +442,7 @@ AR Path="/61A218FA/61A7CDD3" Ref="R?"  Part="1"
 AR Path="/61A56710/61A7CDD3" Ref="R?"  Part="1" 
 F 0 "R11" H 5200 5650 50  0000 L CNN
 F 1 "760" H 5200 5550 50  0000 L CNN
-F 2 "" H 5100 5600 50  0001 C CNN
+F 2 "Potentiometer_SMD:Potentiometer_Bourns_3214W_Vertical" H 5100 5600 50  0001 C CNN
 F 3 "~" H 5100 5600 50  0001 C CNN
 	1    5100 5600
 	1    0    0    -1  
@@ -462,7 +458,7 @@ AR Path="/61A218FA/61A7CDD9" Ref="R?"  Part="1"
 AR Path="/61A56710/61A7CDD9" Ref="R?"  Part="1" 
 F 0 "R7" V 2600 5250 50  0000 L CNN
 F 1 "410" V 2400 5200 50  0000 L CNN
-F 2 "" H 2500 5300 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" H 2500 5300 50  0001 C CNN
 F 3 "~" H 2500 5300 50  0001 C CNN
 	1    2500 5300
 	0    -1   -1   0   
@@ -478,7 +474,7 @@ AR Path="/61A218FA/61A7CDDF" Ref="R?"  Part="1"
 AR Path="/61A56710/61A7CDDF" Ref="R?"  Part="1" 
 F 0 "R8" V 2950 5250 50  0000 L CNN
 F 1 "400" V 2750 5200 50  0000 L CNN
-F 2 "" H 2850 5300 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" H 2850 5300 50  0001 C CNN
 F 3 "~" H 2850 5300 50  0001 C CNN
 	1    2850 5300
 	0    -1   -1   0   
@@ -494,7 +490,7 @@ AR Path="/61A218FA/61A7CDE5" Ref="C?"  Part="1"
 AR Path="/61A56710/61A7CDE5" Ref="C?"  Part="1" 
 F 0 "C6" V 2950 4950 50  0000 L CNN
 F 1 "1.5n" V 2750 4900 50  0000 L CNN
-F 2 "" H 2850 5000 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 2850 5000 50  0001 C CNN
 F 3 "~" H 2850 5000 50  0001 C CNN
 	1    2850 5000
 	0    -1   -1   0   
@@ -530,7 +526,7 @@ AR Path="/61A218FA/61A7CDF6" Ref="C?"  Part="1"
 AR Path="/61A56710/61A7CDF6" Ref="C?"  Part="1" 
 F 0 "C7" H 3242 4696 50  0000 L CNN
 F 1 "1u" H 3242 4605 50  0000 L CNN
-F 2 "" H 3150 4650 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 3150 4650 50  0001 C CNN
 F 3 "~" H 3150 4650 50  0001 C CNN
 	1    3150 4650
 	-1   0    0    1   
@@ -550,7 +546,7 @@ AR Path="/61A218FA/61A7CE14" Ref="R?"  Part="1"
 AR Path="/61A56710/61A7CE14" Ref="R?"  Part="1" 
 F 0 "R12" H 5559 4646 50  0000 L CNN
 F 1 "2k" H 5559 4555 50  0000 L CNN
-F 2 "" H 5500 4600 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" H 5500 4600 50  0001 C CNN
 F 3 "~" H 5500 4600 50  0001 C CNN
 	1    5500 4600
 	1    0    0    -1  
@@ -572,7 +568,7 @@ AR Path="/61A218FA/61A7CE1D" Ref="C?"  Part="1"
 AR Path="/61A56710/61A7CE1D" Ref="C?"  Part="1" 
 F 0 "C10" H 6042 4646 50  0000 L CNN
 F 1 "1u" H 6042 4555 50  0000 L CNN
-F 2 "" H 5950 4600 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 5950 4600 50  0001 C CNN
 F 3 "~" H 5950 4600 50  0001 C CNN
 	1    5950 4600
 	-1   0    0    1   
@@ -589,8 +585,6 @@ Wire Wire Line
 	4650 5000 4600 5000
 Wire Wire Line
 	4500 5000 4500 5150
-Wire Wire Line
-	4500 5350 4500 5500
 $Comp
 L Device:C_Small C8
 U 1 1 61A7CE30
@@ -602,7 +596,7 @@ AR Path="/61A218FA/61A7CE30" Ref="C?"  Part="1"
 AR Path="/61A56710/61A7CE30" Ref="C?"  Part="1" 
 F 0 "C8" H 4592 5296 50  0000 L CNN
 F 1 "1u" H 4592 5205 50  0000 L CNN
-F 2 "" H 4500 5250 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 4500 5250 50  0001 C CNN
 F 3 "~" H 4500 5250 50  0001 C CNN
 	1    4500 5250
 	-1   0    0    1   
@@ -616,7 +610,7 @@ AR Path="/61A56710/61A7CE36" Ref="R?"  Part="1"
 AR Path="/61A7CE36" Ref="R10"  Part="1" 
 F 0 "R10" H 4800 5650 50  0000 L CNN
 F 1 "30k" H 4800 5550 50  0000 L CNN
-F 2 "" V 4680 5600 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" V 4680 5600 50  0001 C CNN
 F 3 "~" H 4750 5600 50  0001 C CNN
 	1    4750 5600
 	1    0    0    -1  
@@ -648,8 +642,6 @@ Wire Wire Line
 Connection ~ 3950 5300
 Wire Wire Line
 	3950 5300 4150 5300
-Text GLabel 4500 5500 3    39   Input ~ 0
-GND_out
 Wire Wire Line
 	4150 5750 4150 6250
 Wire Wire Line
@@ -660,7 +652,7 @@ Connection ~ 4150 6250
 Text GLabel 6150 6250 2    39   Input ~ 0
 GND_out
 Text GLabel 2050 5300 0    39   Input ~ 0
-Out1
+In2
 Text GLabel 2050 4800 0    39   Input ~ 0
 V+_in
 Text GLabel 2050 4450 0    39   Input ~ 0
@@ -698,7 +690,7 @@ AR Path="/61A218FA/61A7CE0A" Ref="C?"  Part="1"
 AR Path="/61A56710/61A7CE0A" Ref="C?"  Part="1" 
 F 0 "C9" V 4850 4300 50  0000 L CNN
 F 1 "1u" V 4650 4300 50  0000 L CNN
-F 2 "" H 4750 4350 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 4750 4350 50  0001 C CNN
 F 3 "~" H 4750 4350 50  0001 C CNN
 	1    4750 4350
 	0    1    1    0   
@@ -732,167 +724,14 @@ Wire Wire Line
 	4100 1350 4100 1850
 Wire Wire Line
 	5500 4100 5500 4350
-$Comp
-L Connector:Conn_01x01_Male GND_in1
-U 1 1 61B94569
-P 8200 1900
-F 0 "GND_in1" H 8000 1950 50  0000 C CNN
-F 1 "GND_in" H 8000 1850 50  0000 C CNN
-F 2 "" H 8200 1900 50  0001 C CNN
-F 3 "~" H 8200 1900 50  0001 C CNN
-	1    8200 1900
-	-1   0    0    1   
-$EndComp
-$Comp
-L Connector:Conn_01x01_Male V+_out1
-U 1 1 61B9B0E9
-P 8200 2100
-F 0 "V+_out1" H 8000 2150 50  0000 C CNN
-F 1 "V+_out" H 8000 2050 50  0000 C CNN
-F 2 "" H 8200 2100 50  0001 C CNN
-F 3 "~" H 8200 2100 50  0001 C CNN
-	1    8200 2100
-	-1   0    0    1   
-$EndComp
-$Comp
-L Connector:Conn_01x01_Male VPU_out1
-U 1 1 61BA1B7F
-P 8200 2500
-F 0 "VPU_out1" H 8000 2550 50  0000 C CNN
-F 1 "VPU_out" H 8000 2450 50  0000 C CNN
-F 2 "" H 8200 2500 50  0001 C CNN
-F 3 "~" H 8200 2500 50  0001 C CNN
-	1    8200 2500
-	-1   0    0    1   
-$EndComp
-$Comp
-L Connector:Conn_01x01_Male TX_485
-U 1 1 61BA8615
-P 8200 2900
-F 0 "TX_485" H 8050 2950 50  0000 C CNN
-F 1 "TX_485" H 8050 2850 50  0000 C CNN
-F 2 "" H 8200 2900 50  0001 C CNN
-F 3 "~" H 8200 2900 50  0001 C CNN
-	1    8200 2900
-	-1   0    0    1   
-$EndComp
-$Comp
-L Connector:Conn_01x01_Male GND_out1
-U 1 1 61BAF0AB
-P 8200 2300
-F 0 "GND_out1" H 8000 2350 50  0000 C CNN
-F 1 "GND_out" H 8000 2250 50  0000 C CNN
-F 2 "" H 8200 2300 50  0001 C CNN
-F 3 "~" H 8200 2300 50  0001 C CNN
-	1    8200 2300
-	-1   0    0    1   
-$EndComp
-$Comp
-L Connector:Conn_01x01_Male Out1
-U 1 1 61BB5B41
-P 8200 3100
-F 0 "Out1" H 8050 3150 50  0000 C CNN
-F 1 "Out1" H 8050 3050 50  0000 C CNN
-F 2 "" H 8200 3100 50  0001 C CNN
-F 3 "~" H 8200 3100 50  0001 C CNN
-	1    8200 3100
-	-1   0    0    1   
-$EndComp
-$Comp
-L Connector:Conn_01x01_Male Out2
-U 1 1 61BBC5C7
-P 8200 3300
-F 0 "Out2" H 8050 3350 50  0000 C CNN
-F 1 "Out2" H 8050 3250 50  0000 C CNN
-F 2 "" H 8200 3300 50  0001 C CNN
-F 3 "~" H 8200 3300 50  0001 C CNN
-	1    8200 3300
-	-1   0    0    1   
-$EndComp
-$Comp
-L Connector:Conn_01x01_Male V+_in1
-U 1 1 61B92F44
-P 8200 1700
-F 0 "V+_in1" H 8000 1750 50  0000 C CNN
-F 1 "V+_in" H 8000 1650 50  0000 C CNN
-F 2 "" H 8200 1700 50  0001 C CNN
-F 3 "~" H 8200 1700 50  0001 C CNN
-	1    8200 1700
-	-1   0    0    1   
-$EndComp
-$Comp
-L Connector:Conn_01x01_Male In1
-U 1 1 61C526BB
-P 8200 2700
-F 0 "In1" H 8172 2632 50  0000 R CNN
-F 1 "In1" H 8172 2723 50  0000 R CNN
-F 2 "" H 8200 2700 50  0001 C CNN
-F 3 "~" H 8200 2700 50  0001 C CNN
-	1    8200 2700
-	-1   0    0    1   
-$EndComp
-Text GLabel 7250 2300 0    39   Input ~ 0
-GND_out
-Wire Wire Line
-	7250 2300 8000 2300
-Text GLabel 7250 2100 0    39   Input ~ 0
-V+_out
-Wire Wire Line
-	7250 2100 8000 2100
-Text Label 7350 2300 0    39   ~ 0
-GND_out
-Text Label 7350 2100 0    39   ~ 0
-V+_out
-Text GLabel 7250 2500 0    39   Input ~ 0
-VPU_out
-Wire Wire Line
-	7250 2500 8000 2500
-Text Label 7350 2500 0    39   ~ 0
-VPU_out
 Text GLabel 2100 1800 0    39   Input ~ 0
 GND_in
-Text GLabel 7250 1900 0    39   Input ~ 0
-GND_in
-Wire Wire Line
-	7250 1900 8000 1900
-Text Label 7350 1900 0    39   ~ 0
-GND_in
-Text GLabel 7250 1700 0    39   Input ~ 0
-V+_in
-Wire Wire Line
-	7250 1700 8000 1700
-Text Label 7350 1700 0    39   ~ 0
-V+_in
-Text GLabel 7250 2700 0    39   Input ~ 0
-In1
-Wire Wire Line
-	7250 2700 8000 2700
-Text Label 7350 2700 0    39   ~ 0
-In1
-Text GLabel 7250 2900 0    39   Input ~ 0
-In2
-Wire Wire Line
-	8000 2900 7250 2900
-Text Label 7350 2900 0    39   ~ 0
-TX_485
-Text GLabel 7250 3100 0    39   Input ~ 0
-Out1
-Wire Wire Line
-	7250 3100 8000 3100
-Text Label 7350 3100 0    39   ~ 0
-Out1
-Text GLabel 7250 3300 0    39   Input ~ 0
-Out2
-Wire Wire Line
-	7250 3300 8000 3300
-Text Label 7350 3300 0    39   ~ 0
-Out2
 Wire Wire Line
 	4800 2700 4800 2850
 Wire Wire Line
 	4800 3050 4800 3200
 Wire Wire Line
-	4200 3600 5150 3600
+	4200 3600 4550 3600
 Wire Wire Line
 	4800 2700 5150 2700
 Wire Wire Line
@@ -908,7 +747,7 @@ Wire Wire Line
 Wire Wire Line
 	4750 5700 4750 5850
 Wire Wire Line
-	4150 6250 5100 6250
+	4150 6250 4500 6250
 Wire Wire Line
 	4750 5350 5100 5350
 Wire Wire Line
@@ -949,4 +788,72 @@ Wire Notes Line
 	7700 1300 6550 1300
 Wire Notes Line
 	7700 1050 7700 1300
+Wire Wire Line
+	4550 2700 4550 3600
+Connection ~ 4550 3600
+Wire Wire Line
+	4550 3600 5150 3600
+Wire Wire Line
+	4500 5350 4500 6250
+Connection ~ 4500 6250
+Wire Wire Line
+	4500 6250 5100 6250
+$Comp
+L Connector:Conn_01x05_Female Output1
+U 1 1 61BDEB6D
+P 8000 2450
+F 0 "Output1" H 8028 2476 50  0000 L CNN
+F 1 "Output" H 8028 2385 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical" H 8000 2450 50  0001 C CNN
+F 3 "~" H 8000 2450 50  0001 C CNN
+	1    8000 2450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x04_Female Input1
+U 1 1 61BE0528
+P 8000 1750
+F 0 "Input1" H 8028 1726 50  0000 L CNN
+F 1 "Input" H 8028 1635 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" H 8000 1750 50  0001 C CNN
+F 3 "~" H 8000 1750 50  0001 C CNN
+	1    8000 1750
+	1    0    0    -1  
+$EndComp
+Text GLabel 7250 1750 0    39   Input ~ 0
+In1
+Wire Wire Line
+	7800 1750 7250 1750
+Text GLabel 7250 1850 0    39   Input ~ 0
+In2
+Wire Wire Line
+	7250 1850 7800 1850
+Text GLabel 7250 1650 0    39   Input ~ 0
+V+_in
+Wire Wire Line
+	7800 1650 7250 1650
+Text GLabel 7250 1950 0    39   Input ~ 0
+GND_in
+Wire Wire Line
+	7800 1950 7250 1950
+Text GLabel 7250 2450 0    39   Input ~ 0
+Out1
+Text GLabel 7250 2550 0    39   Input ~ 0
+Out2
+Wire Wire Line
+	7250 2450 7800 2450
+Wire Wire Line
+	7250 2550 7800 2550
+Text GLabel 7250 2350 0    39   Input ~ 0
+VPU_out
+Wire Wire Line
+	7250 2350 7800 2350
+Text GLabel 7250 2250 0    39   Input ~ 0
+V+_out
+Wire Wire Line
+	7250 2250 7800 2250
+Text GLabel 7250 2650 0    39   Input ~ 0
+GND_out
+Wire Wire Line
+	7250 2650 7800 2650
 $EndSCHEMATC
